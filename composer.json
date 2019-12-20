@@ -11,6 +11,7 @@
             "email": "1437549947@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6.0"
     },
