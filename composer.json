@@ -1,7 +1,7 @@
 
 {
     "name": "gaochengsdd/test",
-    "description": "一个自己的测试扩展扩展",
+    "description": "一个自己的测试扩展",
     "type": "mytest",
     "keywords": ["gaocheng","test"],
     "license": "MIT",

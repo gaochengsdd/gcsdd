@@ -6,7 +6,7 @@
 
         private $msg = "welcome";
 
-        public function sendmsg(){
+        public function index(){
             echo $this->msg;
         }
 
@@ -16,10 +16,6 @@
             }else{
                 echo "输入的是：".$msg;
             }
-        }
-        
-        public function index(){
-            
         }
 
     }
