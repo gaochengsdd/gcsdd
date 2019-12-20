@@ -11,7 +11,7 @@
         }
 
         public function message($msg=null){
-            if($msg){
+            if(empty($msg)){
                 echo "没有输入";
             }else{
                 echo "输入的是：".$msg;
